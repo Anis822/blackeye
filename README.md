@@ -1,4 +1,6 @@
-## BLACKEYE v2.1
+## BLACKEYEgit clone https://github.com/shuvo-halder/blackeye
+cd blackeye
+bash blackeye.sh Amazon  v2.1
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
 ##### The tool is completely free now
